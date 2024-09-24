@@ -1,0 +1,3 @@
+root/documents
+root/documents/file2.txt
+root/file1.txt

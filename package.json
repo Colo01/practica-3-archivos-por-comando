@@ -1,0 +1,23 @@
+{
+  "name": "practica-1",
+  "version": "1.0.0",
+  "description": "Lo contratan para diseñar un sistema de archivos en memoria para el ámbito educativo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.12",
+    "@types/node": "^22.6.1",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.4",
+    "typescript": "^5.6.2"
+  }
+}
